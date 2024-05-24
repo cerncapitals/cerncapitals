@@ -54,8 +54,6 @@ export default function Funding() {
             >
 
             <MenuItem value={0}>Bitcoin</MenuItem>
-            <MenuItem value={1}>Ethereum</MenuItem>
-            <MenuItem value={2}>BNB</MenuItem>
             <MenuItem value={3}>USDT</MenuItem>
           </Select>
         </FormControl>
