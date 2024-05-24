@@ -53,7 +53,7 @@ export default function Funding() {
               style={{fontSize: ".8rem"}}
             >
             <MenuItem value={0}>Bitcoin</MenuItem>
-            <MenuItem value={3}>USDT</MenuItem>
+            <MenuItem value={2}>USDT</MenuItem>
           </Select>
         </FormControl>
 
