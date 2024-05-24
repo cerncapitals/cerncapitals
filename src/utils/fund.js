@@ -18,5 +18,5 @@ export const wallet = [
     network: "TRC20",
     address: "TKy1aWK6PaAJ6tZETQ5vfQrdKrpHFj7U2P",
     link: "https://cerncapitals.com/dashboard/fund",
-  },
+  }
 ];
