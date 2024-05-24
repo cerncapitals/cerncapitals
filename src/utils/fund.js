@@ -11,7 +11,7 @@ export const wallet = [
     link: "https://cerncapitals.com/dashboard/fund"
   },
   {
-    id: 4,
+    id: 2,
     title: "USDT",
     image: qr4,
     network: "TRC20",
