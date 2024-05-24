@@ -1,6 +1,4 @@
 import qr1 from '../assets/qr1.jpeg';
-import qr2 from '../assets/qr2.jpeg';
-import qr3 from '../assets/qr3.jpeg';
 import qr4 from '../assets/qr4.jpeg';
 
 
