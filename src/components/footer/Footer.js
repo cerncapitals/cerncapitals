@@ -8,10 +8,10 @@ export default function Footer() {
   return (
     <div className={styles.container}>
       <div className={styles.address}>
-        <h1>CERNCAPITALS</h1>
+        <h1>CERNTRADE</h1>
         <p>Evri ParcelShop, 28-30 W Ham Ln, London E15 4SA, United Kingdom</p>
         <h2>Email</h2>
-        <p>cerncapitals@gmail.com</p>
+        <p>cerntrade@gmail.com</p>
       </div>
       <div className={styles.links}>
         <h2>Useful Links</h2>

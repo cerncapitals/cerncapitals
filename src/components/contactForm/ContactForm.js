@@ -33,7 +33,7 @@ export default function ContactForm() {
             </div>
               <div className={styles.emailText}>
                 <h3>Email</h3>
-                <p>cerncapitals@gmail.com</p>
+                <p>cerntrade@gmail.com</p>
               </div>
             </div>
           </div>

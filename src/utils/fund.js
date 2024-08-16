@@ -1,21 +1,21 @@
-import qr1 from '../assets/qr1.jpeg';
-import qr4 from '../assets/qr4.jpeg';
+import USDT from '../assets/USDT.jpg';
+import BTC from '../assets/BTC.jpg';
 
 export const wallet = [
   {
     id: 1,
     title: "Bitcoin",
-    image: qr1,
+    image: BTC,
     network: "BTC",
-    address: "bc1q5tn0q2fqazurzk7u6entz5tsazv9fgqtpmuld6",
-    link: "https://cerncapitals.com/dashboard/fund"
+    address: "bc1qnqd2dlh3n3hl3cd4enhzaa60chkktvgceun5e7",
+    link: "https://link.trustwallet.com/send?coin=0&address=bc1qnqd2dlh3n3hl3cd4enhzaa60chkktvgceun5e7"
   },
   {
     id: 2,
     title: "USDT",
-    image: qr4,
+    image: USDT,
     network: "TRC20",
-    address: "TKy1aWK6PaAJ6tZETQ5vfQrdKrpHFj7U2P",
-    link: "https://cerncapitals.com/dashboard/fund"
+    address: "TX82xu52MmFd6vQM6jVgmqvZDQfo5Yi7wR",
+    link: "https://link.trustwallet.com/send?coin=195&address=TX82xu52MmFd6vQM6jVgmqvZDQfo5Yi7wR&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
   }
 ];

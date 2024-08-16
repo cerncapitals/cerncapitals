@@ -51,7 +51,7 @@ export default function Nav({black}) {
       <nav className={navbg? styles.container2 : styles.container}>
         <Link to="/" className={styles.logo}>
           <img src={logo} alt="logo"/>
-          <h2 style={black?{color: "black"}: {color: "inherit"}}>CAPITALS</h2>
+          <h2 style={black?{color: "black"}: {color: "inherit"}}>TRADE</h2>
         </Link>
 
         <div id="google_translate_element"></div>
