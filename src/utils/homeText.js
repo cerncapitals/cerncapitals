@@ -114,67 +114,67 @@ export const withdrawals = [
 export const testimonies = [
   {
     name: "Alex W",
-    message: "Cerncapitals has transformed my approach to investing. The platform is intuitive, and the investment process is straightforward. The team behind Cerncapitals is responsive and provides excellent support. I trust their investment strategies and highly recommend them!",
+    message: "CERNTRADE has transformed my approach to investing. The platform is intuitive, and the investment process is straightforward. The team behind CERNTRADE is responsive and provides excellent support. I trust their investment strategies and highly recommend them!",
   },
   {
     name: "Sophie L",
-    message: "I've been using Cerncapitals for my investments, and it's been a fantastic experience. The platform offers a diverse range of investment options, and the pricing is competitive. The convenience of managing my portfolio online is unparalleled. A reliable choice for anyone serious about investing.",
+    message: "I've been using CERNTRADE for my investments, and it's been a fantastic experience. The platform offers a diverse range of investment options, and the pricing is competitive. The convenience of managing my portfolio online is unparalleled. A reliable choice for anyone serious about investing.",
   },
   {
     name: "Ryan M",
-    message: "Cerncapitals has made investing simple and accessible. The platform is user-friendly, and I appreciate the variety of investment tools available. The customer support team is knowledgeable and responsive. Cerncapitals is my preferred platform for all my investment needs.",
+    message: "CERNTRADE has made investing simple and accessible. The platform is user-friendly, and I appreciate the variety of investment tools available. The customer support team is knowledgeable and responsive. CERNTRADE is my preferred platform for all my investment needs.",
   },
   {
     name: "Olivia G",
-    message: "I cannot speak highly enough of Cerncapitals. Their commitment to client satisfaction is evident in every aspect of their service. The platform is secure, the investment options are diverse, and the returns are impressive. Choosing Cerncapitals has been a smart move for my financial goals!",
+    message: "I cannot speak highly enough of CERNTRADE. Their commitment to client satisfaction is evident in every aspect of their service. The platform is secure, the investment options are diverse, and the returns are impressive. Choosing CERNTRADE has been a smart move for my financial goals!",
   },
   {
     name: "Nathan K",
-    message: "Cerncapitals is a game-changer in the investment world. The platform's interface is modern and easy to navigate. The team provides valuable insights, and the investment performance speaks for itself. I trust Cerncapitals with my portfolio, and you should too!",
+    message: "CERNTRADE is a game-changer in the investment world. The platform's interface is modern and easy to navigate. The team provides valuable insights, and the investment performance speaks for itself. I trust CERNTRADE with my portfolio, and you should too!",
   },
   {
     name: "Eva R",
-    message: "Investing with Cerncapitals has been a seamless experience. The platform offers transparency, and the investment tools are powerful yet user-friendly. The team is responsive and dedicated to helping clients succeed. I highly recommend Cerncapitals for anyone serious about building wealth through investments.",
+    message: "Investing with CERNTRADE has been a seamless experience. The platform offers transparency, and the investment tools are powerful yet user-friendly. The team is responsive and dedicated to helping clients succeed. I highly recommend CERNTRADE for anyone serious about building wealth through investments.",
   },
   {
     name: "Chris H",
-    message: "I've tried several investment platforms, and Cerncapitals stands out for its reliability and performance. The platform's features are tailored to both beginners and experienced investors. The team is committed to excellence, making Cerncapitals my top choice for managing my investments.",
+    message: "I've tried several investment platforms, and CERNTRADE stands out for its reliability and performance. The platform's features are tailored to both beginners and experienced investors. The team is committed to excellence, making CERNTRADE my top choice for managing my investments.",
   },
   {
     name: "Lily P",
-    message: "Cerncapitals has exceeded my expectations. The platform is user-centric, offering a variety of investment options suitable for different risk profiles. The team is proactive in keeping clients informed about market trends. Trustworthy, efficient, and highly recommended!",
+    message: "CERNTRADE has exceeded my expectations. The platform is user-centric, offering a variety of investment options suitable for different risk profiles. The team is proactive in keeping clients informed about market trends. Trustworthy, efficient, and highly recommended!",
   },
   {
     name: "Michael S",
-    message: "I've been with Cerncapitals for a while now, and the results have been impressive. The platform is backed by solid research, and the investment strategies are well-executed. The user interface is intuitive, making it easy to manage my investments. Cerncapitals is a reliable partner for financial growth.",
+    message: "I've been with CERNTRADE for a while now, and the results have been impressive. The platform is backed by solid research, and the investment strategies are well-executed. The user interface is intuitive, making it easy to manage my investments. CERNTRADE is a reliable partner for financial growth.",
   },
   {
     name: "Hannah B",
-    message: "Choosing Cerncapitals was a wise decision for my investment journey. The platform offers a range of features that empower investors. The customer service is exceptional, and the team is dedicated to helping clients achieve their financial goals. I trust Cerncapitals with my investments.",
+    message: "Choosing CERNTRADE was a wise decision for my investment journey. The platform offers a range of features that empower investors. The customer service is exceptional, and the team is dedicated to helping clients achieve their financial goals. I trust CERNTRADE with my investments.",
   },
   {
     name: "Daniel M",
-    message: "Cerncapitals has provided me with a strategic approach to investing. The platform's user-friendly design and diverse investment options make it a standout choice. The team's expertise is evident in the impressive returns I've experienced. Cerncapitals is my go-to platform for wealth-building.",
+    message: "CERNTRADE has provided me with a strategic approach to investing. The platform's user-friendly design and diverse investment options make it a standout choice. The team's expertise is evident in the impressive returns I've experienced. CERNTRADE is my go-to platform for wealth-building.",
   },
   {
     name: "Emma R",
-    message: "As a new investor, Cerncapitals has been instrumental in helping me navigate the complexities of the financial market. The educational resources provided by the platform are invaluable, and the support from the team has been exceptional. Cerncapitals is the perfect platform for beginners and seasoned investors alike.",
+    message: "As a new investor, CERNTRADE has been instrumental in helping me navigate the complexities of the financial market. The educational resources provided by the platform are invaluable, and the support from the team has been exceptional. CERNTRADE is the perfect platform for beginners and seasoned investors alike.",
   },
   {
     name: "Max H",
-    message: "I appreciate the transparency and reliability of Cerncapitals. The platform's real-time analytics and market insights have empowered me to make informed investment decisions. The team's dedication to client success sets Cerncapitals apart. I'm confident in the platform's ability to deliver consistent results.",
+    message: "I appreciate the transparency and reliability of CERNTRADE. The platform's real-time analytics and market insights have empowered me to make informed investment decisions. The team's dedication to client success sets CERNTRADE apart. I'm confident in the platform's ability to deliver consistent results.",
   },
   {
     name: "Isabel C",
-    message: "Cerncapitals has simplified my investment journey. The platform's user interface is intuitive, and the wealth of information available makes it easy to stay informed. The team's commitment to customer satisfaction is evident in every interaction. I trust Cerncapitals to help me achieve my financial goals.",
+    message: "CERNTRADE has simplified my investment journey. The platform's user interface is intuitive, and the wealth of information available makes it easy to stay informed. The team's commitment to customer satisfaction is evident in every interaction. I trust CERNTRADE to help me achieve my financial goals.",
   },
   {
     name: "Benjamin L",
-    message: "I've been impressed with Cerncapitals's commitment to innovation. The platform continually introduces new features and investment opportunities, keeping my portfolio dynamic. The team's responsiveness and expertise make Cerncapitals a reliable partner for long-term success. I'm excited to continue growing my investments with them.",
+    message: "I've been impressed with CERNTRADE's commitment to innovation. The platform continually introduces new features and investment opportunities, keeping my portfolio dynamic. The team's responsiveness and expertise make CERNTRADE a reliable partner for long-term success. I'm excited to continue growing my investments with them.",
   },
   {
     name: "Sophia A",
-    message: "Cerncapitals has proven to be a trustworthy platform for wealth creation. The comprehensive range of investment options and the team's dedication to customer satisfaction make it a standout choice. I've seen consistent returns and appreciate the platform's user-friendly approach. Cerncapitals is my preferred investment platform.",
+    message: "CERNTRADE has proven to be a trustworthy platform for wealth creation. The comprehensive range of investment options and the team's dedication to customer satisfaction make it a standout choice. I've seen consistent returns and appreciate the platform's user-friendly approach. CERNTRADE is my preferred investment platform.",
   },
 ];
 
@@ -198,7 +198,7 @@ export const clientLogos = [
 
 export const homeSec1Text = {
   title: 'GETTING STARTED',
-  subtitle: 'Steps In Becoming A CERNCAPITALS Partner.',
+  subtitle: 'Steps In Becoming A CERNTRADE Partner.',
   card: [
     {
       title: 'Registration',
@@ -212,7 +212,7 @@ export const homeSec1Text = {
     },
     {
       title: 'Fund',
-      text: "Make a deposit via any funding method you prefer to start trading with real money on CERNCAPITALS.",
+      text: "Make a deposit via any funding method you prefer to start trading with real money on CERNTRADE.",
       image: blue3,
     },
     {
@@ -230,7 +230,7 @@ export const homeSec2Text = {
   accordions: [
     {
       title: 'Create Your Account',
-      text: "Go to https://www.cerncapitals.com from a browser on your computer, on Android or iOS to get started.",
+      text: "Go to https://www.cerntrade.com from a browser on your computer, on Android or iOS to get started.",
     },
     {
       title: 'Transfer Your Funds',
@@ -276,7 +276,7 @@ export const homeSec3Text = {
 
 export const homeSec4Text = {
   title: 'PRICING',
-  subtitle: 'CERNCAPITALS PACKAGES',
+  subtitle: 'CERNTRADE PACKAGES',
   plans: [
   {
     id: 1,
@@ -338,7 +338,7 @@ export const services = {
 
 export const team = {
   title: 'TEAM',
-  subtitle: 'CERNCAPITALS TEAM',
+  subtitle: 'CERNTRADE TEAM',
   card: [
     {
       image: team1,
@@ -381,7 +381,7 @@ export const homeSec5Text = {
       text: "Sending Cryptocurrency is as easy as choosing the amount to send and deciding where it goes. Simply copy the recipient's address to your clipboard, then paste it in the send field of the Cryptocurrency wallet app you're using.",
     },
     {
-      title: 'Trading With CERNCAPITALS?',
+      title: 'Trading With CERNTRADE?',
       text: "Enjoy professional Trades, instant order execution, low fees, and friendly 24/7 support. Get your free account today! Sign up take less than 40 seconds. 50+ markets. Fees from 0.001% 24/7 Live support.",
     },
   ],
@@ -409,7 +409,7 @@ export const homeSec6Text = {
 
 export const copyright = [
   {
-    text: "CERNCAPITALS is a fully Registered Trademark. Any trademarks appearing on this website are the property of their respective owners."
+    text: "CERNTRADE is a fully Registered Trademark. Any trademarks appearing on this website are the property of their respective owners."
   },
   {
     text: "The content of our pages has been created with the utmost care. However, we cannot guarantee the content’s accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this context, please note that we are accordingly not obliged to monitor merely the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per 8 to 10 of the Telemedia Act (TMG)."
@@ -424,6 +424,6 @@ export const copyright = [
     text: "Risk Warning: CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. A high percentage of retail investor accounts lose money when trading CFDs. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money."
   },
   {
-    text: "Trading with CERNCAPITALS by following and/or copying or replicating the trades of other traders involves high levels of risks, even when following and/or copying or replicating the top-performing traders. Such risks include the risk that you may be following/copying the trading decisions of possibly inexperienced/unprofessional traders, or traders whose ultimate purpose or intention, or financial status may differ from yours. Before making an investment decision, you should rely on your own assessment of the person making the trading decisions and the terms of all the legal documentation."
+    text: "Trading with CERNTRADE by following and/or copying or replicating the trades of other traders involves high levels of risks, even when following and/or copying or replicating the top-performing traders. Such risks include the risk that you may be following/copying the trading decisions of possibly inexperienced/unprofessional traders, or traders whose ultimate purpose or intention, or financial status may differ from yours. Before making an investment decision, you should rely on your own assessment of the person making the trading decisions and the terms of all the legal documentation."
   },
 ];

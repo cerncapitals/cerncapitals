@@ -5,7 +5,7 @@ export const investment = {
   title: 'INVESTMENT',
   subtitle: 'Invest in the future of the world',
   title2: "PRICING",
-  subtitle2: "CERNCAPITALS PACKAGES",
+  subtitle2: "CERNTRADE PACKAGES",
   image: invest,
   link: '#',
   plans: [
