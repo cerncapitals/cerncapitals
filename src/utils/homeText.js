@@ -182,7 +182,7 @@ export const testimonies = [
 
 export const heroText = {
   title: 'An investment partnership, working with you to manage your assets for the long term.',
-  subtitle: 'Join our stock & crypto trading social network with over 1 million users. Cryptocurrency trading is the act of speculating on cryptocurrency price movements via a CFD trading account.',
+  subtitle: 'We look for opportunities across global asset classes selecting high quality investments with sustainable returns.',
   image: heroPic,
   link: 'https://youtu.be/x9J0NdV0u9k'
 }
