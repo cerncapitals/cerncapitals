@@ -110,20 +110,6 @@ export default function Dashboard() {
         <Profile document={doc}/>
       </div>
       }
-
-      {page === 'chart' &&
-      <div className={styles.main}>
-        <Clients />
-        <Charts />
-        <MarketPower />
-        <Indices />
-        <CrossRates />
-        <IndicesFuture />
-        <Clients />
-        <CryptoChart />
-        <HeatMap />
-      </div>
-      }
       
     </div>
   )
