@@ -15,7 +15,7 @@ export default function Hero({ title, subtitle, image, link, shrink }) {
         <div className={styles.buttons}>
           {!user && <Link className={styles.button1} to="/login">Login</Link>}
           {user && <Link className={styles.button1} to="/dashboard">Invest →</Link>}
-          <a className={styles.button2} href={link}><FaPlayCircle size="2rem"/> Watch</a>
+          <a className={styles.button2} href="mailto:cerntrade@gmail.com"><FaPlayCircle size="2rem"/>Contact support</a>
         </div>
       </div>
       <div className={shrink? styles.right2: styles.right}>
