@@ -84,7 +84,6 @@ export default function Dashboard() {
         <BalCard />
         <ReferralText />
         <BuiltWith />
-        <MiningOverview />
         <Clients />
         <CryptoChart />
       </div>
@@ -108,6 +107,20 @@ export default function Dashboard() {
       {page === 'profile' &&
       <div className={styles.main}>
         <Profile document={doc}/>
+      </div>
+      }
+
+      {page === 'chart' &&
+      <div className={styles.main}>
+        <Clients />
+        <Charts />
+        <MarketPower />
+        <Indices />
+        <CrossRates />
+        <IndicesFuture />
+        <Clients />
+        <CryptoChart />
+        <HeatMap />
       </div>
       }
       
