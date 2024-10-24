@@ -6,8 +6,8 @@ export default function BuiltWith() {
     <div className={styles.container}>
       <div className={styles.left}>
         <div className={styles.leftTextWrapper}>
-          <p className={styles.title}>Built By CERNCAPITALS</p>
-          <h1 className={styles.subtitle1}>CERNCAPITALS Dashboard</h1>
+          <p className={styles.title}>Built By CERNTRADE</p>
+          <h1 className={styles.subtitle1}>CERNTRADE Dashboard</h1>
           <p className={styles.subtitle2}>From Trade, Investment's, cryptographic to complex elements, you will find the full documentation.</p>
           <p className={styles.subtitle3}>Best Trading & Investment Platform. <span>→</span></p>
         </div>
@@ -19,7 +19,7 @@ export default function BuiltWith() {
       <div className={styles.right}>
         <div className={styles.text}>
           <h1>Work with the rockets</h1>
-          <p>CERNCAPITALS is based on an advanced sophisticated algorithm that allows generating unlimited binary and Minning signals which enable us to trade with most top 10 currency pairs in different time frames without limitations</p>
+          <p>CERNTRADE is based on an advanced sophisticated algorithm that allows generating unlimited binary and Minning signals which enable us to trade with most top 10 currency pairs in different time frames without limitations</p>
           <p className={styles.best}>Best Trading & Investment Platform. <span>→</span></p>
         </div>
       </div>
