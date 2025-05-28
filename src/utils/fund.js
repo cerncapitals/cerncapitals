@@ -7,15 +7,15 @@ export const wallet = [
     title: "Bitcoin",
     image: BTC,
     network: "BTC",
-    address: "bc1qnqd2dlh3n3hl3cd4enhzaa60chkktvgceun5e7",
-    link: "https://link.trustwallet.com/send?coin=0&address=bc1qnqd2dlh3n3hl3cd4enhzaa60chkktvgceun5e7"
+    address: "bc1qn95u39gm3nwhtk3h6kfqggmalmfps0fas9kl6y",
+    link: "https://link.trustwallet.com/send?coin=0&address=bc1qn95u39gm3nwhtk3h6kfqggmalmfps0fas9kl6y"
   },
   {
     id: 2,
     title: "USDT",
     image: USDT,
     network: "TRC20",
-    address: "TX82xu52MmFd6vQM6jVgmqvZDQfo5Yi7wR",
-    link: "https://link.trustwallet.com/send?coin=195&address=TX82xu52MmFd6vQM6jVgmqvZDQfo5Yi7wR&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    address: "TGttAhMqirBUx2938atn5yhSniUFqpNFTA",
+    link: "https://link.trustwallet.com/send?coin=195&address=TGttAhMqirBUx2938atn5yhSniUFqpNFTA&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
   }
 ];
